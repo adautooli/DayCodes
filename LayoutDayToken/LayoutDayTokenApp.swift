@@ -11,7 +11,7 @@ import SwiftUI
 struct LayoutDayTokenApp: App {
     var body: some Scene {
         WindowGroup {
-            DayTokenCodeView()
+            Historic()
         }
     }
 }
